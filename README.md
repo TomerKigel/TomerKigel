@@ -4,9 +4,7 @@ My name is Tomer and this is my git!
 
 I am a software developer since my early adolescence (I have started around 14 years ago).
 
-In the beginning, I was preoccupied with thoughts about the ideal MMO action game instead of putting hard effort into school.
-I was contemplating what would constitute the best player experience in a competitive open-world environment. What I was lacking in skill and knowledge I was compensating with imagination and fantasies. Fast-forward a couple of years I found I was more interested in the journey of making something interesting instead of the product itself. The freedom I felt in my fantasies seemed to be realized better in my ambitious work to make things happen.
-This git is my playground, a place you are welcome to join me on my quest to find freedom and joy in problem-solving and designing systems and solutions.
+In my early days, my mind was consumed with visions of the ultimate MMO action game, diverting my attention from school. I pondered relentlessly on what would define the optimal player experience in a competitive open-world setting. Compensating for my lack of expertise with vivid imagination, I immersed myself in fantasies. As time passed, my focus shifted; I discovered a greater fascination with the process of crafting something captivating rather than the end result. The liberation I once found in my daydreams began to materialize more profoundly in my ambitious endeavors to bring ideas to life. This repository serves as my playground, inviting you to join me on a journey where I seek freedom and joy in the realms of problem-solving and the creation of intricate systems and solutions.
 
 
 ![](https://komarev.com/ghpvc/?username=TomerKigel)
